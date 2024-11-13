@@ -15,5 +15,5 @@
 uint32_t g_waitcycles = WAIT_CYCLES * WAIT_INIT_MULTI;
 
 void main(void) {
-  task_3();
+  task_1_1();
 }
