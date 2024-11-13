@@ -1,1 +1,1 @@
-Creating lab3 and its contents
+The purpose of lab 3 is to get familiar with different aspects of the MSP432 including the registers for configuration, the use of library functions, polling, peripherals, and establishing a UART communication.
